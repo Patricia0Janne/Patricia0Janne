@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ##  Olá, eu sou a Patrícia! 
 🎯 Desenvolvedora Front-end, focada em **React.js** e **JavaScript (ES6+)**
 
